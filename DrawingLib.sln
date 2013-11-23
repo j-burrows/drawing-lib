@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DrawingLib", "DrawingLib0.00\DrawingLib.csproj", "{CFC3D9E5-EEB9-430B-8756-AEB281FBE66F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DrawingLibTests", "DrawingTests\DrawingLibTests.csproj", "{13E64454-3025-4E47-B206-81011CA0F36C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DrawingLibDebug", "DrawingDebugTests\DrawingLibDebug.csproj", "{F4465080-E2DA-45ED-B05E-B162B03C9967}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CFC3D9E5-EEB9-430B-8756-AEB281FBE66F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CFC3D9E5-EEB9-430B-8756-AEB281FBE66F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CFC3D9E5-EEB9-430B-8756-AEB281FBE66F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CFC3D9E5-EEB9-430B-8756-AEB281FBE66F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{13E64454-3025-4E47-B206-81011CA0F36C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13E64454-3025-4E47-B206-81011CA0F36C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13E64454-3025-4E47-B206-81011CA0F36C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13E64454-3025-4E47-B206-81011CA0F36C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F4465080-E2DA-45ED-B05E-B162B03C9967}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4465080-E2DA-45ED-B05E-B162B03C9967}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4465080-E2DA-45ED-B05E-B162B03C9967}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4465080-E2DA-45ED-B05E-B162B03C9967}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
